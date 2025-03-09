@@ -17,7 +17,7 @@ st.markdown("""
 
 # App Title
 st.markdown('<div class="main-title">📜 Advanced Text Analyzer</div>', unsafe_allow_html=True)
-st.write("Analyze your text with precision and ease. Built with Streamlit by [Your Name/Company].")
+st.write("Analyze your text with precision and ease. Built with Streamlit by Shahmeer Khan.")
 
 # Sidebar for Options
 st.sidebar.header("⚙️ Settings")
